@@ -21,12 +21,6 @@ To install AdalatSaathi, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
-For more examples and usage, check out our [User Guide](docs/USER_GUIDE.md).
-
-## Contributing
-
-We welcome contributions from the community! Whether it's bug fixes, new features, or improvements to documentation, please read our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get involved.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
